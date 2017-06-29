@@ -1,4 +1,4 @@
-__IMPORTANT NOTE: this version of grafana with keystone support is no longer maintained by us__
+__IMPORTANT NOTE: this version of the grafana datasource is no longer maintained by us__
 
 ## Monasca Datasource - A datasource for use with the OpenStack Monasca api.
 
